@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\bin\Debug\net6.0\HW7dek1.exe
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\bin\Debug\net6.0\HW7dek1.deps.json
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\bin\Debug\net6.0\HW7dek1.runtimeconfig.json
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\bin\Debug\net6.0\HW7dek1.dll
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\bin\Debug\net6.0\HW7dek1.pdb
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.AssemblyInfo.cs
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.dll
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\refint\HW7dek1.dll
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.pdb
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\HW7dek1.genruntimeconfig.cache
+C:\Users\user\Desktop\GitAbsolutely\HW7dek\HW7dekabr\HW7dek1\obj\Debug\net6.0\ref\HW7dek1.dll
